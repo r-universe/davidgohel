@@ -3,3 +3,31 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "flextable"]
+	path = flextable
+	url = https://github.com/davidgohel/flextable
+	shallow = true
+[submodule "fpeek"]
+	path = fpeek
+	url = https://github.com/davidgohel/fpeek
+	shallow = true
+[submodule "gdtools"]
+	path = gdtools
+	url = https://github.com/davidgohel/gdtools
+	shallow = true
+[submodule "ggiraph"]
+	path = ggiraph
+	url = https://github.com/davidgohel/ggiraph
+	shallow = true
+[submodule "officedown"]
+	path = officedown
+	url = https://github.com/davidgohel/officedown
+	shallow = true
+[submodule "officer"]
+	path = officer
+	url = https://github.com/davidgohel/officer
+	shallow = true
+[submodule "rvg"]
+	path = rvg
+	url = https://github.com/davidgohel/rvg
+	shallow = true
