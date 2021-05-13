@@ -8,40 +8,33 @@
 	url = https://github.com/davidgohel/flextable
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "fpeek"]
 	path = fpeek
 	url = https://github.com/davidgohel/fpeek
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gdtools"]
 	path = gdtools
 	url = https://github.com/davidgohel/gdtools
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ggiraph"]
 	path = ggiraph
 	url = https://github.com/davidgohel/ggiraph
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "officedown"]
 	path = officedown
 	url = https://github.com/davidgohel/officedown
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "officer"]
 	path = officer
 	url = https://github.com/davidgohel/officer
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rvg"]
 	path = rvg
 	url = https://github.com/davidgohel/rvg
 	shallow = true
 	registered = true
-	oncran = true

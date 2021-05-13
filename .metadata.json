@@ -1,0 +1,30 @@
+[
+  {
+    "package": "flextable",
+    "oncran": true
+  },
+  {
+    "package": "fpeek",
+    "oncran": true
+  },
+  {
+    "package": "gdtools",
+    "oncran": true
+  },
+  {
+    "package": "ggiraph",
+    "oncran": true
+  },
+  {
+    "package": "officedown",
+    "oncran": true
+  },
+  {
+    "package": "officer",
+    "oncran": true
+  },
+  {
+    "package": "rvg",
+    "oncran": true
+  }
+]
