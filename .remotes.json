@@ -2,6 +2,12 @@
   {
     "package": "officer",
     "url": "https://github.com/davidgohel/officer",
+    "via": ["flextable"],
+    "from": "flextable"
+  },
+  {
+    "package": "officer",
+    "url": "https://github.com/davidgohel/officer",
     "via": ["officedown"],
     "from": "officedown"
   }
