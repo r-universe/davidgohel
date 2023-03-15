@@ -1,18 +1,6 @@
 [
   {
-    "package": "ggiraph",
-    "oncran": true
-  },
-  {
-    "package": "officer",
-    "oncran": true
-  },
-  {
     "package": "flextable",
-    "oncran": true
-  },
-  {
-    "package": "officedown",
     "oncran": true
   },
   {
@@ -21,6 +9,18 @@
   },
   {
     "package": "gdtools",
+    "oncran": true
+  },
+  {
+    "package": "ggiraph",
+    "oncran": true
+  },
+  {
+    "package": "officedown",
+    "oncran": true
+  },
+  {
+    "package": "officer",
     "oncran": true
   },
   {
