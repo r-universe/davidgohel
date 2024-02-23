@@ -1,5 +1,12 @@
 [
   {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2",
+    "via": ["ggiraph"],
+    "branch": "rc/3.5.0",
+    "from": "ggiraph"
+  },
+  {
     "package": "officer",
     "url": "https://github.com/davidgohel/officer",
     "via": ["flextable"],
