@@ -6,9 +6,21 @@
     "from": "flextable"
   },
   {
+    "package": "equatags",
+    "url": "https://github.com/ardata-fr/equatags",
+    "via": ["officer"],
+    "from": "officer"
+  },
+  {
     "package": "gdtools",
     "url": "https://github.com/davidgohel/gdtools",
     "via": ["flextable"],
     "from": "flextable"
+  },
+  {
+    "package": "gdtools",
+    "url": "https://github.com/davidgohel/gdtools",
+    "via": ["officer", "equatags"],
+    "from": "officer"
   }
 ]
