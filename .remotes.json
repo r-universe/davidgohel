@@ -16,11 +16,5 @@
     "url": "https://github.com/davidgohel/gdtools",
     "via": ["flextable"],
     "from": "flextable"
-  },
-  {
-    "package": "gdtools",
-    "url": "https://github.com/davidgohel/gdtools",
-    "via": ["officer", "equatags"],
-    "from": "officer"
   }
 ]
